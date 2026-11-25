@@ -53,55 +53,62 @@ All rectifier outputs contain a considerable amount of ripple in addition to the
 
 ### Half wave rectifier without filter
 
-*[ Insert the half wave rectifier without filter circuit diagram here ]*
+<img width="982" height="697" alt="Screenshot 2026-11-25 211142" src="https://github.com/user-attachments/assets/c2646566-44bf-47e3-8a17-991226e0c87c" />
 
-**Figure 1:** Half wave rectifier without filter
-
-### Half wave rectifier with filter
-
-*[ Insert the half wave rectifier with filter circuit diagram here ]*
 
 **Figure 2:** Half wave rectifier with filter
 
+
+<img width="827" height="528" alt="Screenshot 2026-11-25 181608" src="https://github.com/user-attachments/assets/7df42e81-3f2e-46fa-850c-ac113fc452f3" />
+
+
+
 ### Full wave bridge rectifier without filter
 
-*[ Insert the full wave bridge rectifier without filter circuit diagram here ]*
+<img width="1182" height="703" alt="Screenshot 2026-11-25 211159" src="https://github.com/user-attachments/assets/262aeb30-e58b-4195-9c92-b1aaaf5c49ca" />
 
-**Figure 3:** Full wave bridge rectifier without filter
 
 ### Full wave bridge rectifier with filter
 
-*[ Insert the full wave bridge rectifier with filter circuit diagram here ]*
+<img width="837" height="557" alt="Screenshot 2026-11-25 181622" src="https://github.com/user-attachments/assets/89749c2c-0df3-4068-88fb-ac4d286587ca" />
 
-**Figure 4:** Full wave bridge rectifier with filter
 
 ## SIMULATION AND WAVEFORMS USING PROTEUS
 
 Build each rectifier in Proteus, with and without the capacitor filter. Use the virtual oscilloscope to display the input (secondary) and output waveforms together, and paste the screenshots below.
 
-### Half wave rectifier without filter – waveform
-
-*[ Paste the Proteus half wave rectifier without filter waveform screenshot here ]*
-
-**Figure 5:** Proteus waveform – half wave rectifier without filter
 
 ### Half wave rectifier with filter – waveform
 
-*[ Paste the Proteus half wave rectifier with filter waveform screenshot here ]*
+<img width="822" height="426" alt="Screenshot 2026-11-25 205430" src="https://github.com/user-attachments/assets/3cbd0116-e38a-4082-9371-16d12c31bba0" />
 
-**Figure 6:** Proteus waveform – half wave rectifier with filter
-
-### Full wave bridge rectifier without filter – waveform
-
-*[ Paste the Proteus full wave bridge rectifier without filter waveform screenshot here ]*
-
-**Figure 7:** Proteus waveform – full wave bridge rectifier without filter
 
 ### Full wave bridge rectifier with filter – waveform
 
-*[ Paste the Proteus full wave bridge rectifier with filter waveform screenshot here ]*
+<img width="827" height="425" alt="Screenshot 2026-11-25 205443" src="https://github.com/user-attachments/assets/228d37a5-c7e9-4b12-af8d-593fe23666cd" />
 
-**Figure 8:** Proteus waveform – full wave bridge rectifier with filter
+### Tabular column for half wave rectifier
+
+<img width="1377" height="697" alt="Screenshot 2026-11-25 211232" src="https://github.com/user-attachments/assets/2145a051-65b2-4ca6-805a-93227f6ddcb7" />
+
+
+### Tabular column for full wave rectifier
+
+
+
+<img width="1090" height="695" alt="Screenshot 2026-11-25 211218" src="https://github.com/user-attachments/assets/347f3b39-ba1c-4154-921c-94fdfcd010fb" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## FORMULAE
 
